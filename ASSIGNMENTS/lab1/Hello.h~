@@ -1,8 +1,0 @@
-#import <Foundation/Foundation.h>
-@interface Hello:NSObject
-{
-	char BUFF[100];
-}
--addStringValue:(const char*)astring; //function to add to strings
--print;
-@end
